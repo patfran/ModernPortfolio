@@ -1,7 +1,6 @@
 /*====================================
 ========= ENTIRE PAGE CSS ============
 =====================================*/
-
 @font-face {
 	font-family: 'Koushiki';
 	src: url('../fonts/KoushikiSans-Regular.ttf');
@@ -11,65 +10,44 @@
 	font-family: 'Koushiki', Arial, sans-serif;
 }
 
-body{
-	padding-top: 70px;
-	min-width: 320px;
-	width: auto !important;
-	width: 320px; /*for IE browsers*/
-
-	background: rgba( 255, 255, 255, 0.75 );
+/* default bootstrap is for devices smaller than 768px */
+body {
+	padding-top: 66px;
+	background: rgba( 255, 255, 255, 0.85 );
 }
 
+/* so I have to do this for devices bigger than 768px */
+@media only screen and (min-width: 768px) {
+	body {
+		padding-top: 63px;
+		background: rgba( 255, 255, 255, 0.85 );
+	}
+}
 
-
-html{
-	background: url(../thumbnails/IMG_2271_4k.jpg) no-repeat center center fixed;
+html {
+	background: url(../thumbnails/IMG_2296.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
 }
 
-/*====================================
-============ ANIMATIONS ==============
-=====================================*/
-
-/* Defaults */
-.text-center, 
-.text-center-sm,
-.text-center-md,
-.text-center-lg 
-{ text-align: inherit; }
-
-/* Define xs styles after defaults so they take precedence */
-.text-center-xs { text-align: center; }
-
-/* Small grid */
-@media (min-width: 768px) {
-  .text-center, .text-center-sm, .text-center-xs 
-  { text-align: center; }
-}
-
-/* Medium grid */
-@media (min-width: 992px) {
-  .text-center, .text-center-md, .text-center-sm, .text-center-xs 
-  { text-align: center; }
-}
-
-/* Large grid */
-@media (min-width: 1200px) {
-  .text-center, .text-center-lg, .text-center-md, .text-center-sm, .text-center-xs 
-  { text-align: center; }
-}
 
 
 /*====================================
 ======= SIDE BAR NAVIGATION ==========
 =====================================*/
-.mynav{ /* navbar base look*/
+/* for mobile first */
+/* h3 is 24px high */
+/* h4 is 18px high */
+.mynav { /* navbar base look*/
 	background-color: #fff;
 	transition: all 0.3s ease 0s;
 	box-shadow: 0px 2px 1px 0px rgba(0, 0, 0, .175);
+}
+
+.mynav ul { /* mobile full width links */
+	width: 100%;
 }
 
 .mynav  a { /* navbar base links */
@@ -77,25 +55,61 @@ html{
 	transition: all 0.3s ease 0s;
 }
 
-.mynav a:hover{ /*colors link hover*/
-
-}
-
-.mynav a.active  { /*link colors when scrolling*/
-	background-color: #aaa;
+/*
+.mynav a.active  { link colors when scrolling
 	color: #000;
+	background-color: #aaa;
 	text-decoration: none;
 }
-
-.mynav .navbar-nav {
+*/
+ 
+.mynav .navbar-nav { /*works, about, contact*/
 	display: inline-block;
-	float: none;
-	vertical-align: top;
+	/*float: none;*/
+	/*vertical-align: top;*/
 }
 
-.mynav .navbar-collapse{
-	text-align: center;
-}	
+.mynav .navbar-collapse { /*the dropdown list*/
+	text-align: right;
+}
+
+/* for laptops/desktops */
+@media only screen and (min-width: 768px) {
+	.mynav { /* navbar base look*/
+		background-color: #fff;
+		transition: all 0.3s ease 0s;
+		box-shadow: 0px 2px 1px 0px rgba(0, 0, 0, .175);
+	}
+	
+	.mynav ul{
+		/* width: 293px; /*measured beforehand */
+	}
+	
+	.mynav  a { /* navbar base links */
+		color: #000;
+		transition: all 0.3s ease 0s;
+	}
+
+	.mynav a:hover { /*colors link hover*/
+
+	}
+
+	.mynav a.active  { /*link colors when scrolling*/
+		background-color: #aaa;
+		color: #000;
+		text-decoration: none;
+	}
+
+	.mynav .navbar-nav {
+		display: inline-block;
+		float: none;
+		vertical-align: top;
+	}
+	
+	.mynav .navbar-collapse {
+		text-align: center;
+	}
+}
 
 
 /*====================================
@@ -115,6 +129,23 @@ section{
 	height: 200px;
 	overflow: hidden;
 }
+
+@media (min-width: 768px) {
+	.workbar{
+		position: relative;
+		width: 100%;
+		height: 200px;
+		overflow: hidden;
+	}
+}
+
+/* Medium grid */
+@media (min-width: 992px) {
+	.text-center {
+		text-align: center;
+	}
+}
+
 
 .workbar:hover img{
 	opacity: 1.0;

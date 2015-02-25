@@ -31,7 +31,7 @@
 			
 			<div class="row">
 				<!-- CONTENT, 8 columns wide  -->
-				<div id="content-wrap" class="col-md-8 col-md-offset-2">
+				<div id="content-wrap" class="col-sm-8 col-sm-offset-2">
 					<div class="content">
 					<!-- the meat of the content goes here -->
 
