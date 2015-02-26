@@ -41,7 +41,7 @@
 						<!--===== CONTACT =====-->
 						<section id="contact" class="myfadeinquick">
 							
-							<h1 >Contact</h1>
+							<h1>Contact</h1>
 							
 							<div> <!--class="text-center"-->
 							<a href="mailto:mail@patfran.me">mail@patfran.me <span class="fa fa-paper-plane-o"></span></a><br/>
@@ -49,7 +49,6 @@
 							<a href="https://www.linkedin.com/in/patfran" target="_blank">LinkedIn</a><br/>
 							<a href="https://github.com/ppf3" target="_blank">GitHub</a><br/>
 							<a href="https://500px.com/patrickfrancisco" target="_blank">500px</a><br/>
-							<a href="https://www.facebook.com/the5souls" target="_blank">Facebook</a><br/>
 							<a href="https://twitter.com/the5souls" target="_blank">Twitter</a><br/>
 							</div>
 							
