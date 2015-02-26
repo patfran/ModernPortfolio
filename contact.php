@@ -17,8 +17,11 @@
 		<link rel="stylesheet" href="css/style.css">
 		<link rel="stylesheet" href="fonts/font-awesome-4.3.0/css/font-awesome.min.css">
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
+		
+		<?php $page = 'contact';?>
     </head>
     <body>
+	<div class="indexhtml">
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->	
@@ -36,11 +39,11 @@
 					<!-- the meat of the content goes here -->
 	
 						<!--===== CONTACT =====-->
-						<section id="contact">
+						<section id="contact" class="myfadeinquick">
 							
-							<h1 class="text-center">Contact</h1>
+							<h1 >Contact</h1>
 							
-							<div class="text-center">
+							<div> <!--class="text-center"-->
 							<a href="mailto:mail@patfran.me">mail@patfran.me <span class="fa fa-paper-plane-o"></span></a><br/>
 							<br/>
 							<a href="https://www.linkedin.com/in/patfran" target="_blank">LinkedIn</a><br/>
@@ -62,6 +65,7 @@
 
 	<script src="js/jquery.min.js"></script>
 	<script src="js/bootstrap.min.js"></script>
-		
+	
+	</div>
     </body>
 </html>

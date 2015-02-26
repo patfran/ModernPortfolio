@@ -36,7 +36,7 @@
 					<!-- the meat of the content goes here -->
 						
 					
-						<section id="works-content">
+						<section id="works-content" class="myfadeinquick">
 						<h1>1fort</h1>
 						
 						<p> A side project to try out Valve's Source Filmmaker shortly after its release on June 2013. I wanted to go for a more cinematic approach to practice camera angles and lighting.</p> 

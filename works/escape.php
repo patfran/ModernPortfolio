@@ -17,8 +17,11 @@
 		<link rel="stylesheet" href="../css/style.css">
 		<link rel="stylesheet" href="../fonts/font-awesome-4.3.0/css/font-awesome.min.css">
         <script src="../js/vendor/modernizr-2.8.3.min.js"></script>
+		
+		<?php $page = 'works';?>
     </head>
     <body>
+	<div class="indexhtml">
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->	
@@ -36,13 +39,15 @@
 					<!-- the meat of the content goes here -->
 						
 					
-						<section id="works-content">
+						<section id="works-content" class="myfadeinquick">
 							<h1>Escape (Oculus Rift VR)</h1>
 							
 							<p>
 							A short game inspired by old point-and-click "Escape the Room" Flash games. I used this opportunity to learn more about virtual reality development using the Unity3D game engine.
 							</p>
 							
+							<img src="img/escape.jpg" alt="Escape VR" class="center-block img-responsive"/>
+							<br/>
 							<p>
 							According to Oculus's <a href="http://static.oculus.com/sdk-downloads/documents/Oculus_Best_Practices_Guide.pdf">Best Practices Guide</a>, the most comfortable VR experiences are ones that involve no self-motion. In this demo, the player does not move at all except to move his or her head to look around. The chair and the surrounding objects are positioned in a way where the player never has to turn a full 180-degrees.
 							</p>
@@ -56,9 +61,10 @@
 							</p>
 							
 							<br>
-								<a href="escape/Escape_v1.0.zip" download><h4><strong> --> Download Escape_v1.0 (Oculus Rift DK2 recommended) <-- </strong></h4></a>
+								<a href="https://www.dropbox.com/s/mp75ffrianyj2rk/Escape_%20v1.1.zip?dl=0"><h4><strong>Escape_v1.1 (Oculus Rift DK2 recommended)</strong></h4></a>
 							<br>
-							<img src="img/escape.jpg" alt="Escape VR" class="center-block img-responsive"/>
+							
+							<img src="img/unity.jpg" alt="Unity3D editing" class="center-block img-responsive"/>
 								
 						</section>
 						
@@ -72,6 +78,7 @@
 
 	<script src="../js/jquery.min.js"></script>
 	<script src="../js/bootstrap.min.js"></script>
-		
+	
+	</div>
     </body>
 </html>

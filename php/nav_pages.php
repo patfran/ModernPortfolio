@@ -10,9 +10,9 @@
 
 		<div class="navbar-collapse collapse navbar-right" id="mynavbarcollapse-1">
 			<ul class="nav navbar-nav">
-				<li><a href="../works.php"><h4>Works</h4></a></li>
-				<li><a href="../about.php"><h4>About</h4></a></li>
-				<li><a href="../contact.php"><h4>Contact</h4></a></li>
+				<li class=" <?php echo ($page == "works" ? "active" : "")?> "><a href="../works.php"><h4>Works</h4></a></li>
+				<li class=" <?php echo ($page == "about" ? "active" : "")?> "><a href="../about.php"><h4>About</h4></a></li>
+				<li class=" <?php echo ($page == "contact" ? "active" : "")?> "><a href="../contact.php"><h4>Contact</h4></a></li>
 			</ul>
 		</div>
 

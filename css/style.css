@@ -11,7 +11,7 @@
 }
 
 html {
-	background: url(../thumbnails/IMG_2296.jpg) no-repeat center center fixed;
+	background: url(../thumbnails/IMG_2296-optimized.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
@@ -21,6 +21,10 @@ html {
 /* default bootstrap is for devices smaller than 768px */
 body {
 	padding-top: 66px;
+	background: rgba( 255, 255, 255, 0 );
+}
+
+body .indexhtml {
 	background: rgba( 255, 255, 255, 0.85 );
 }
 
@@ -28,6 +32,10 @@ body {
 @media only screen and (min-width: 768px) {
 	body {
 		padding-top: 63px;
+		background: rgba( 255, 255, 255, 0 ); /*0.85*/
+	}
+	
+	body .indexhtml {
 		background: rgba( 255, 255, 255, 0.85 );
 	}
 	
@@ -64,13 +72,11 @@ body {
 	transition: all 0.3s ease 0s;
 }
 
-/*
-.mynav a.active  { link colors when scrolling
+.mynav li.active  { /*link colors when scrolling*/
 	color: #000;
-	background-color: #aaa;
+	background-color: #ddd;
 	text-decoration: none;
 }
-*/
  
 .mynav .navbar-nav { /*works, about, contact*/
 	display: inline-block;
@@ -186,6 +192,10 @@ section{
 	.workbar:hover img{
 	opacity: 1.0;
 	}
+	
+	.workbar a:hover {
+		text-decoration: none;
+	}
 
 	.workbar img{
 		opacity: 0.85;
@@ -212,25 +222,100 @@ section{
 /*
 using http://www.pearsonified.com/typography/ for font ratio for 750 width. Title: 45px, Headline: 28px, Sub: 22px, Text: 17px, Subtext: 13px;*/
 
-#content-wrap{
+#content-wrap {
 	/*width: 750px;*/
 	/*width: 100%;*/
 }
 
-.works-pics img{
+.works-pics img {
 	width: 750px;
 }
 
-#dating-doc{
+#dating-doc {
 	width: 750px;
 	height: 846px;
 }
 
-#about .about-img{
+#about .about-img {
 	margin-left: auto;
 	margin-right: auto;
 }
 
-#about .about-text{
+#about .about-text {
 	
+}
+
+.myfooter {
+	position: relative;
+	bottom: 0;
+}
+
+
+/* ==============================================
+=== Just for the arrow on the main page, haha ===
+=================================================*/
+.myfadein {
+	-webkit-animation: fadein 1s; 
+	-moz-animation: fadein 1s;
+	-ms-animation: fadein 1s;
+	-o-animation: fadein 1s;
+	animation: fadein 1s;
+}
+
+@keyframes fadein {
+	from { opacity: 0; top: -80px; }
+	to { opacity: 1; top: 0px; }
+}
+
+@-moz-keyframes fadein {
+	from { opacity: 0; top: -80px; }
+	to { opacity: 1; top: 0px; }
+}
+
+@-webkit-keyframes fadein {
+	from { opacity: 0; top: -80px; }
+	to { opacity: 1; top: 0px; }
+}
+
+@-ms-keyframes fadein {
+	from { opacity: 0; top: -80px; }
+	to { opacity: 1; top: 0px; }
+}
+
+@-o-keyframes fadein {
+	from { opacity: 0; top: -80px; }
+	to { opacity: 1; top: 0px; }
+}
+
+.myfadeinquick {
+	-webkit-animation: fadein 0.5s; 
+	-moz-animation: fadein 0.5s;
+	-ms-animation: fadein 0.5s;
+	-o-animation: fadein 0.5s;
+	animation: fadein 0.5s;
+}
+
+@keyframes fadeinquick {
+	from { opacity: 0; }
+	to { opacity: 1; }
+}
+
+@-moz-keyframes fadeinquick {
+	from { opacity: 0; }
+	to { opacity: 1; }
+}
+
+@-webkit-keyframes fadeinquick {
+	from { opacity: 0; }
+	to { opacity: 1; }
+}
+
+@-ms-keyframes fadeinquick {
+	from { opacity: 0; }
+	to { opacity: 1; }
+}
+
+@-o-keyframes fadeinquick {
+	from { opacity: 0; }
+	to { opacity: 1; }
 }
