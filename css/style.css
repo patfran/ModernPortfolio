@@ -10,6 +10,14 @@
 	font-family: 'Koushiki', Arial, sans-serif;
 }
 
+html {
+	background: url(../thumbnails/IMG_2296.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+
 /* default bootstrap is for devices smaller than 768px */
 body {
 	padding-top: 66px;
@@ -22,15 +30,16 @@ body {
 		padding-top: 63px;
 		background: rgba( 255, 255, 255, 0.85 );
 	}
+	
+	html {
+		background: url(../thumbnails/IMG_2296.jpg) no-repeat center center fixed;
+		-webkit-background-size: cover;
+		-moz-background-size: cover;
+		-o-background-size: cover;
+		background-size: cover;
+	}
 }
 
-html {
-	background: url(../thumbnails/IMG_2296.jpg) no-repeat center center fixed;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	-o-background-size: cover;
-	background-size: cover;
-}
 
 
 
@@ -123,71 +132,92 @@ section{
 	color: #000;
 }
 
-.workbar{
-	position: relative;
-	width: 100%;
-	height: 200px;
-	overflow: hidden;
+.workbar h4{
+	/*position: relative;*/
+	/* width: 100%;  /*100% */
+	/* height: 200px; 200px */
+	/*overflow: hidden;*/
+	font-size: 16px;
 }
-
-@media (min-width: 768px) {
-	.workbar{
-		position: relative;
-		width: 100%;
-		height: 200px;
-		overflow: hidden;
-	}
-}
-
-/* Medium grid */
-@media (min-width: 992px) {
-	.text-center {
-		text-align: center;
-	}
-}
-
 
 .workbar:hover img{
 	opacity: 1.0;
 }
 
 .workbar img{
-	position: relative;
-	width: 100%;/*750px;*/
-	top: 50%;
+	/*opacity: 0.85;*/ /*mobile, no transparency*/
+	-webkit-transition: opacity 0.3s ease 0s;
+	transition: opacity 0.3s ease 0s;
+	
+	/*position: relative;*/
+	/*width: 100%;*/ /*750px;*/
+	/*top: 50%;
 	left: 50%;
-	opacity: 0.85;
 	
 	-webkit-transform: translate(-50%,-50%);
 	-ms-transform: translate(-50%,-50%);
-	transform: translate(-50%,-50%);
-	
-	-webkit-transition: opacity 0.3s ease 0s;
-	transition: opacity 0.3s ease 0s;
+	transform: translate(-50%,-50%);*/
 }
 
 .workbar .workbar-caption{
-	position: absolute;
-	background-color: rgba( 0, 0, 0, .54);
+	position: relative;
+	background-color: rgba( 0, 0, 0, .55);
 	color: #fff;
 	
-	bottom: 0px;
+	bottom: 65px;
+	margin-bottom: -45px;
 	padding-left: 10px;
 	padding-right: 10px;
 	padding-top: 10px;
-	padding-bottom: 5px;	
+	padding-bottom: 5px;
 }
+
+@media only screen and (min-width: 768px) {
+	.workbar{
+		/*position: relative;
+		width: 100%;
+		overflow: hidden;*/
+	}
+	
+	.workbar h4{
+		font-size: 18px;
+	}
+	
+	.workbar:hover img{
+	opacity: 1.0;
+	}
+
+	.workbar img{
+		opacity: 0.85;
+		-webkit-transition: opacity 0.3s ease 0s;
+		transition: opacity 0.3s ease 0s;
+		
+		/*position: relative;*/
+		/*width: 100%;*/ /*750px;*/
+		/*top: 50%;
+		left: 50%;
+		
+		-webkit-transform: translate(-50%,-50%);
+		-ms-transform: translate(-50%,-50%);
+		transform: translate(-50%,-50%);*/
+	}
+}
+
 
 
 
 /*====================================
 ========= MAIN WORKS STUFF ===========
 =====================================*/
-
 /*
 using http://www.pearsonified.com/typography/ for font ratio for 750 width. Title: 45px, Headline: 28px, Sub: 22px, Text: 17px, Subtext: 13px;*/
 
 #content-wrap{
+	/*width: 750px;*/
+	/*width: 100%;*/
+}
+
+.works-pics img{
 	width: 750px;
 }
 
@@ -196,7 +226,11 @@ using http://www.pearsonified.com/typography/ for font ratio for 750 width. Titl
 	height: 846px;
 }
 
-.works-pics img{
-	width: 750px;
+#about .about-img{
+	margin-left: auto;
+	margin-right: auto;
 }
 
+#about .about-text{
+	
+}

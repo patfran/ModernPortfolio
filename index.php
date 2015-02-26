@@ -18,7 +18,7 @@
 		<link rel="stylesheet" href="fonts/font-awesome-4.3.0/css/font-awesome.min.css">
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
     </head>
-    <body>
+    <body  id="indexhtml">
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->	
@@ -31,7 +31,7 @@
 			
 			<div class="row">
 				<!-- CONTENT, 8 columns wide  -->
-				<div id="content-wrap" class="col-sm-8 col-sm-offset-2">
+				<div id="content-wrap" class="col-xs-12 col-sm-8">
 					<div class="content">
 					<!-- the meat of the content goes here -->
 						

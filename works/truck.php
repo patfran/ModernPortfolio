@@ -39,32 +39,30 @@
 						<section id="works-content">
 						<h1 class="text-center">Truck Photo Composition</h1>
 						
-						<p>
-						My friend loves his truck. After watching <a href="https://vimeo.com/30363913">this video on lighting composite photography</a>, he allowed me to try the shooting technique on his truck. Using only one external flash, we positioned the flash around the truck for each photo to light up as much of the truck as possible.
-						</p>
-						
-						<p>
-						Many photos and mosquito bites later, I took the best set of photos and layered them on top of one another in Adobe Photoshop. I erased portions of each layer to ensure that only the lit parts were shown. Below are the final result, and the complete photo set that I've used to create it.
-						</p>
-						
-						<p>
-						I used a Canon T2i DSLR camera and a Yongnuo Flash YN-460ii.
-						</p>
-						
-						<div class="works-pics">
-							<img src="img/truck/final.jpg" alt="Final truck composition"/>
+							<p>
+							My friend loves his truck. After watching <a href="https://vimeo.com/30363913">this video on lighting composite photography</a>, he allowed me to try the shooting technique on his truck. Using only one external flash, we positioned the flash around the truck for each photo to light up as much of the truck as possible. Below is the final result.
+							</p>
+							
+							<img src="img/truck/final.jpg" alt="Final truck composition" class="center-block img-responsive"/>
+							<br/>
+							
+							<p>
+							Many photos and mosquito bites later, I took the best set of photos and layered them on top of one another in Adobe Photoshop. I erased portions of each layer to ensure that only the lit parts were shown. Below is the complete photo set that I've used to create the composite.
+							</p>
+							
+							<p>
+							I used a Canon T2i DSLR camera and a Yongnuo Flash YN-460ii.
+							</p>
+							
 							<br>
-							<p> The final photo composition.</p>
-							<hr>
-							<br>
-							<img src="img/truck/1.jpg" alt="Truck Photo 1"/>
-							<img src="img/truck/2.jpg" alt="Truck Photo 2"/>
-							<img src="img/truck/3.jpg" alt="Truck Photo 3"/>
-							<img src="img/truck/4.jpg" alt="Truck Photo 4"/>
-							<img src="img/truck/5.jpg" alt="Truck Photo 5"/>
-							<img src="img/truck/6.jpg" alt="Truck Photo 6"/>
-							<img src="img/truck/7.jpg" alt="Truck Photo 7"/>
-						</div>
+							<img src="img/truck/1.jpg" alt="Truck Photo 1" class="center-block img-responsive"/>
+							<img src="img/truck/2.jpg" alt="Truck Photo 2" class="center-block img-responsive"/>
+							<img src="img/truck/3.jpg" alt="Truck Photo 3" class="center-block img-responsive"/>
+							<img src="img/truck/4.jpg" alt="Truck Photo 4" class="center-block img-responsive"/>
+							<img src="img/truck/5.jpg" alt="Truck Photo 5" class="center-block img-responsive"/>
+							<img src="img/truck/6.jpg" alt="Truck Photo 6" class="center-block img-responsive"/>
+							<img src="img/truck/7.jpg" alt="Truck Photo 7" class="center-block img-responsive"/>
+						
 						</section>
 						
 						<hr>

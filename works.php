@@ -31,75 +31,76 @@
 			
 			<div class="row">
 				<!-- CONTENT, 8 columns wide  -->
-				<div id="content-wrap" class="col-sm-8 col-sm-offset-2">
+				<div id="content-wrap" class="col-xs-18 col-sm-8 col-sm-offset-2">
 					<div class="content">
 					<!-- the meat of the content goes here -->
 						
-						
 						<!--===== WORKS =====-->
 						<section id="works">
-						
-							<h1 class="text-center">Works</h1>	
+
+							<h1>Works</h1>
 							
 							<div class="workbar"> <!-- 2.2015 -->
 								<a href="works/escape.php">
-								<img src="thumbnails/escape-750.jpg" alt="Escape VR"/>
+								<img src="thumbnails/480/escape-480.jpg" alt="Escape VR" class="center-block img-responsive"/>
 								<h4 class="workbar-caption">Escape (Oculus Rift VR)</h4> 
 								</a>
 							</div>
 							
 							<div class="workbar"> <!-- 12.2014 -->
 								<a href="works/dating.php">
-								<img src="thumbnails/datingapp-cards.jpg" alt="Dating App"/>
+								<img src="thumbnails/480/dating-480.jpg" alt="Dating App" class="center-block img-responsive"/>
 								<h4 class="workbar-caption">Dating App UX Report</h4>  
 								</a>
 							</div>
 							
 							<div class="workbar"> <!-- 3.2013 -->
 								<a href="works/phonepromo.php">
-								<img src="thumbnails/windowsphone-750.jpg" alt="Windows Phone"/>
-								<h4 class="workbar-caption"><span class="fa fa-trophy"></span> Windows Phone Promotional Video</h4> 
+								<img src="thumbnails/480/phone-480.jpg" alt="Windows Phone" class="center-block img-responsive"/>
+								<h4 class="workbar-caption"><span class="fa fa-trophy"></span> Windows Phone Promo</h4> 
 								</a>
 							</div>
 							
-							<div class="workbar"> <!-- 8.2013 -->
+							 <!--
+							<div class="workbar"> 8.2013 
 								<a href="works/spongebob.php">
-								<img src="thumbnails/spongebob-750.jpg" alt="Spongebob"/>
-								<h4 class="workbar-caption">Spongebob Sings Katy Perry's Roar</h4> 
+								<img src="thumbnails/480/spongebob-480.jpg" alt="Spongebob" class="center-block img-responsive"/>
+								<h4 class="workbar-caption">Spongebob Sings "Roar"</h4> 
 								</a>
 							</div>
-
+							 -->
+							
 							<div class="workbar"> <!-- 3.2014 -->
 								<a href="works/xboxflyer.php">
-								<img src="thumbnails/xboxmusic-750.jpg" alt="Xbox Music"/>
-								<h4 class="workbar-caption"><span class="fa fa-trophy"></span> Xbox Music Promotional Flyer</h4> 
+								<img src="thumbnails/480/xboxflyer-480.jpg" alt="Xbox Music" class="center-block img-responsive"/>
+								<h4 class="workbar-caption"><span class="fa fa-trophy"></span> Xbox Music Promo</h4> 
 								</a>
-							</div>	
-
+							</div>
+							
 							<div class="workbar"> <!-- 7.2012 -->
 								<a href="works/1fort.php">
-								<img src="thumbnails/1fort-750.jpg" alt="1fort"/>
+								<img src="thumbnails/480/1fort-480.jpg" alt="1fort" class="center-block img-responsive"/>
 								<h4 class="workbar-caption">1fort (Source Filmmaker)</h4> 
 								</a>
-							</div>	
+							</div>
 							
 							<div class="workbar"> <!-- 6.2014 -->
 								<a href="works/truck.php">
-								<img src="thumbnails/truck-750.jpg" alt="Truck Comp"/>
+								<img src="thumbnails/480/truck-480.jpg" alt="Truck Comp" class="center-block img-responsive"/>
 								<h4 class="workbar-caption">Truck Photo Composition</h4> 
 								</a>
 							</div>
 							
 							<div class="workbar"> <!-- 10.2014 -->
 								<a href="works/rosetta.php">
-								<img src="thumbnails/rosetta2-900.jpg" alt="Rosetta Scale"/>
+								<img src="thumbnails/480/rosetta-480.jpg" alt="Rosetta Scale" class="center-block img-responsive"/>
 								<h4 class="workbar-caption">Rosetta Image Scale</h4> 
 								</a>
 							</div>
 							
 							<div class="workbar"> <!-- 4.2014 -->
 								<a href="works/drawing.php">
-								<img src="thumbnails/bluegirl-750.jpg" alt="Girl in Blue"/>
+								<img src="thumbnails/480/girl-480.jpg" alt="Girl in Blue" class="center-block img-responsive"/>
 								<h4 class="workbar-caption">Girl in Blue</h4> 
 								</a>
 							</div>

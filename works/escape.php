@@ -58,9 +58,8 @@
 							<br>
 								<a href="escape/Escape_v1.0.zip" download><h4><strong> --> Download Escape_v1.0 (Oculus Rift DK2 recommended) <-- </strong></h4></a>
 							<br>
-							<div class="works-pics">
-								<img src="img/escape.jpg" alt="Escape VR"></img>
-							</div>
+							<img src="img/escape.jpg" alt="Escape VR" class="center-block img-responsive"/>
+								
 						</section>
 						
 						<hr>

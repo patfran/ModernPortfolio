@@ -37,34 +37,37 @@
 						
 					
 						<section id="works-content">
-						<h1 class="text-center">Rosetta Image Scale</h1>
+							<h1 class="text-center">Rosetta Image Scale</h1>
+							
+							<p>
+							In October 2014, the European Space Agency's (ESA) Rosetta took a composite photograph of Comet 67P about 9.8 kilometers away. However, it's difficult to put the image into perspective without a frame of reference that we can understand.
+							</p>
+							
+							<!--<div class="works-pics">-->
+								<img src="img/rosetta1.jpg" alt="Rosetta Image 1" class="center-block img-responsive"/>
+							<!--</div>-->
+							
+							<br/>
+							<p>
+							Everything in the photo is appropriately scaled to 98 centimeters = 1 pixel. This scale was taken from the space agency's blog <a href="http://blogs.esa.int/rosetta/2014/10/20/cometwatch-18-october/">here under the second paragraph</a>.
+							</p>
+							
+							<p>
+							Using Adobe Photoshop, I used the following references:
+							<ul>
+								<li>98 centimeters = 1 pixel</li>
+								<li>One World Trade Center (54600 cm = ~557 px)</li>
+								<li>Eiffel Tower (30100 cm = ~307 px)</li>
+								<li>A full-sized airplane (7060 cm = ~72 px)</li>
+								<li>Lower Manhattan </li>
+								<li>A full neighborhood block</li>
+								<li>A high school</li>
+								<li>A football and baseball field</li>
+							</ul>
+							</p>
 						
-						<p>
-						In October 2014, the European Space Agency's (ESA) Rosetta took a composite photograph of Comet 67P about 9.8 kilometers away. However, it's difficult to put the image into perspective without a frame of reference that we can understand.
-						</p>
 						
-						<p>
-						Everything in the photo is appropriately scaled to 98 centimeters = 1 pixel. This scale was taken from the space agency's blog <a href="http://blogs.esa.int/rosetta/2014/10/20/cometwatch-18-october/">here under the second paragraph</a>.
-						</p>
-						
-						<p>
-						Using Adobe Photoshop, I used the following references:
-						<ul>
-							<li>98 centimeters = 1 pixel</li>
-							<li>One World Trade Center (54600 cm = ~557 px)</li>
-							<li>Eiffel Tower (30100 cm = ~307 px)</li>
-							<li>A full-sized airplane (7060 cm = ~72 px)</li>
-							<li>Lower Manhattan </li>
-							<li>A full neighborhood block</li>
-							<li>A high school</li>
-							<li>A football and baseball field</li>
-						</ul>
-						</p>
-						
-						<div class="works-pics">
-							<img src="img/rosetta1.jpg" alt="Rosetta Image 1"/>
-						</div>
-							<br>
+							<br/>
 							
 							<p>
 							Another Rosetta image that was taken in January 2015. I used Google Maps and a scale of 15 centimeter = 1 pixel. I used the Statue of Liberty and a full-sized airplane for references. The scale was grabbed from the space agency's photo description <a href="http://www.esa.int/spaceinimages/Images/2015/01/Comet_from_8_km">here</a>.
@@ -76,9 +79,10 @@
 								<li>A full-sized airplane (7060 cm = ~470 px)</li>
 							</ul>
 						
-							<div class="works-pics">
-								<img src="img/rosetta2.jpg" alt="Rosetta Image 2"/>
-							</div>
+							
+							<!--<div class="works-pics">-->
+								<img src="img/rosetta2.jpg" alt="Rosetta Image 2" class="center-block img-responsive"/>
+							<!--</div>-->
 						</section>
 						
 						<hr>

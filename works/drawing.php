@@ -47,21 +47,19 @@
 						Created using Autodesk Sketchbook Express on the Microsoft Surface Pro.
 						</p>
 						
-						<div class="works-pics">
-							<img src="img/bluegirl/bluegirl.jpg" alt="Final drawing"/>
+							<img src="img/bluegirl/bluegirl.jpg" alt="Final drawing" class="center-block img-responsive"/>
 							<p>The final drawing.</p>
 							<br>
 							<hr>
 							<br>
 						
-							<img src="img/bluegirl/1.jpg" alt="Drawing 1"/>
-							<img src="img/bluegirl/2.jpg" alt="Drawing 2"/>
-							<img src="img/bluegirl/3.jpg" alt="Drawing 3"/>
-							<img src="img/bluegirl/5.jpg" alt="Drawing 4"/>
-							<img src="img/bluegirl/4.jpg" alt="Drawing 5"/>
-							<img src="img/bluegirl/7.jpg" alt="Drawing 6"/>
-							<img src="img/bluegirl/6.jpg" alt="Drawing 7"/>
-						</div>
+							<img src="img/bluegirl/1.jpg" alt="Drawing 1" class="center-block img-responsive"/>
+							<img src="img/bluegirl/2.jpg" alt="Drawing 2" class="center-block img-responsive"/>
+							<img src="img/bluegirl/3.jpg" alt="Drawing 3" class="center-block img-responsive"/>
+							<img src="img/bluegirl/5.jpg" alt="Drawing 4" class="center-block img-responsive"/>
+							<img src="img/bluegirl/4.jpg" alt="Drawing 5" class="center-block img-responsive"/>
+							<img src="img/bluegirl/7.jpg" alt="Drawing 6" class="center-block img-responsive"/>
+							<img src="img/bluegirl/6.jpg" alt="Drawing 7" class="center-block img-responsive"/>
 						</section>
 						
 						<hr>

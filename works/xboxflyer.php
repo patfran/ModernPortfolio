@@ -43,6 +43,9 @@
 						My submission for the Xbox Music Flyer Contest during my Windows UCrew internship. UCrew members from across the country were tasked with creating an effective promotional flyer that would be helpful on our campuses.
 						</p>
 						
+						<img src="img/xboxflyer.jpg" alt="Xbox Music Flyer" class="center-block img-responsive"/>
+						
+						<br/>
 						<p>
 						While searching for an attractive photo for the flyer, I came across this one. I felt like this photo had the perfect components: a popular electronic dance music artist (Avicii), the centered heart symbol, and vibrant colors. The colors can  help draw a person's attention in, the heart symbol gives a positive reaction, and having Avicii featured on the flyer develops a legitimacy towards the Xbox Music brand.
 						</p>
@@ -52,12 +55,7 @@
 						</p>
 						
 						
-						
-						<div class="works-pics">
-							<img src="img/xboxflyer.jpg"/>
-						</div>
-						
-						<br>
+						<br/>
 						
 						<h4>AWARDS</h4>
 						<p>

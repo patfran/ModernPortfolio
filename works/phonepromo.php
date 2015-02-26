@@ -43,6 +43,11 @@
 						My submission for the Windows Phone Promotional Video Contest during my Windows UCrew internship. UCrew members from across the country were tasked with creating a promotional video that would show the strengths of the Windows Phone.
 						</p>
 						
+						<div class="embed-responsive embed-responsive-4by3">
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zz6fKXof6Vg" allowfullscreen></iframe>
+						</div>
+						
+						<br/>
 						<p>
 						For ideas, I searched around for previous promotional videos created by Microsoft. I found several videos where they would have other people come and try their devices while bright and cheery music played in the background. The videos showcased their positive reactions, including tons of smiles and laughter. I wanted to leave the viewer with good vibes about the Windows Phone and some knowledge of it's functionality so I focused on the phone's speed while a happy tune plays in the background.
 						</p>
@@ -50,10 +55,6 @@
 						<p>
 						This video was edited using Adobe Premiere.
 						</p>
-						
-						<div class="embed-responsive embed-responsive-4by3">
-						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zz6fKXof6Vg" allowfullscreen></iframe>
-						</div>
 					
 						<br>
 						

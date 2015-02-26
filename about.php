@@ -31,23 +31,21 @@
 			
 			<div class="row">
 				<!-- CONTENT, 8 columns wide  -->
-				<div id="content-wrap" class="col-sm-8 col-sm-offset-2">
+				<div id="content-wrap" class="col-xs-18 col-sm-8 col-sm-offset-2">
 					<div class="content">
 					<!-- the meat of the content goes here -->
 
 						<!--===== ABOUT =====-->
 						<section id="about">
 							
-							<h1 class="text-center">About</h1>
-							
-							<img src="thumbnails/me.jpg" alt="A photo of me" class="center-block"/>
-							<br/>
-							
-							<p>
+							<h1>About</h1> <!--text-center-->
+
+							<img class="center-block img-responsive" src="thumbnails/me.jpg" alt="A photo of me" /><!-- class="about-img" -->
+							<p>  <!--  class="about-text" -->
 							Hi! My name is Patrick Francisco, and I'm a digital artist living in the Greater New York City area. I graduated from New Jersey Institute of Technology in December 2014 with a degree in Information Technology. Adobe Photoshop and Adobe Premiere have been my main tools of the trade since high school, but I am always looking for new and cool digital outlets to express my creativity. As a matter of fact, I taught myself HTML and CSS over the past few months to develop this portfolio! Right now, I am currently learning more about virtual reality development using Unity3D and the Oculus Rift DK2, and my ultimate goal is to get hired within the VR industry to foster my design skills.
 							</p>
-							
 							<a href="contact.php">Contact me!</a>
+							
 							
 						</section>
 			
