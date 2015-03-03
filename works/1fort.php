@@ -17,8 +17,11 @@
 		<link rel="stylesheet" href="../css/style.css">
 		<link rel="stylesheet" href="../fonts/font-awesome-4.3.0/css/font-awesome.min.css">
         <script src="../js/vendor/modernizr-2.8.3.min.js"></script>
+		
+		<?php $page = 'works';?>
     </head>
     <body>
+	<div class="indexhtml">
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->	
@@ -51,11 +54,7 @@
 						</p>
 						
 						<p>
-						This took approximately about a week of work to position the characters, and to direct the camera and lights.
-						</p>
-						
-						<p>
-						Created using Source Filmmaker.
+						This took approximately about two weeks of work including one week of learning Source Filmmaker.
 						</p>
 						
 						</section>
@@ -71,5 +70,6 @@
 	<script src="../js/jquery.min.js"></script>
 	<script src="../js/bootstrap.min.js"></script>
 		
+	</div>
     </body>
 </html>

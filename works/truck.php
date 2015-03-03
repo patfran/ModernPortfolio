@@ -43,14 +43,18 @@
 						<h1 class="text-center">Truck Photo Composition</h1>
 						
 							<p>
-							My friend loves his truck. After watching <a href="https://vimeo.com/30363913">this video on lighting composite photography</a>, he allowed me to try the shooting technique on his truck. Using only one external flash, we positioned the flash around the truck for each photo to light up as much of the truck as possible. Below is the final result.
+							After watching <a href="https://vimeo.com/30363913">this video on lighting composite photography</a>, I used the technique on a friend's truck. Using only one external flash, I positioned the flash around the truck for each photo to light up as much of the truck as possible. Below is the final result.
+							</p>
+							
+							<p>
+							I primarily handled the composition and editing of the photo. My buddies helped with positioning the truck and the camera when needed.
 							</p>
 							
 							<img src="img/truck/final.jpg" alt="Final truck composition" class="center-block img-responsive"/>
 							<br/>
 							
 							<p>
-							Many photos and mosquito bites later, I took the best set of photos and layered them on top of one another in Adobe Photoshop. I erased portions of each layer to ensure that only the lit parts were shown. Below is the complete photo set that I've used to create the composite.
+							I took the best set of photos and layered them on top of one another in Adobe Photoshop. I erased portions of each layer to ensure that only the lit parts were shown. Below is the complete photo set that I've used to create the composite.
 							</p>
 							
 							<p>

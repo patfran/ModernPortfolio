@@ -45,7 +45,7 @@
 						
 						
 						<p>
-						For our "Designing the User Experience" course, we focused on the user experience design process similar to what we'd find in design teams in many companies. Every week we delved into a different portion of the UX process. These included:
+						For our "Designing the User Experience" course, our team of five focused on the user experience design process similar to what we'd find in design teams in many companies. Every week we delved into a different portion of the UX process. These included:
 							<ul>
 								<li>claims analysis</li>
 								<li>stakeholder lists</li>
@@ -59,7 +59,7 @@
 						</p>
 						
 						<p>
-						Our group's project was to develop a unique dating application that allowed users to find potential matches. We decided to go with a system that pairs users up based on their internet browsing habits.</p>
+						I was responsible for Jason Vasquez's persona and scenarios. I was also in charge of developing the "art stuff", such as Jason's storyboard and Jason's key path scenario with Axure, a prototyping software.</p>
 						
 						<p>
 						Our complete UX report can be found below. Our Axure prototype can be found <a href="http://1by4bg.axshare.com/#p=internet_1&hi=1">here</a>.

@@ -60,10 +60,11 @@
 						
 						<br/>
 						
-						<h4>AWARDS</h4>
+						<h4><strong>AWARD</strong></h4>
 						<p>
 						Top 5 Best Xbox Music Promotional Flyers - Windows UCrew
 						</p>
+						<br/>
 						</section>
 						
 						<hr>

@@ -43,7 +43,7 @@
 							<h1 class="text-center">Rosetta Image Scale</h1>
 							
 							<p>
-							In October 2014, the European Space Agency's (ESA) Rosetta took a composite photograph of Comet 67P about 9.8 kilometers away. However, it's difficult to put the image into perspective without a frame of reference that we can understand.
+							In October 2014, the European Space Agency's (ESA) Rosetta took a composite photograph of Comet 67P about 9.8 kilometers away. However, it's difficult to put the image into perspective without a frame of reference that we can understand. I took the agency's photo and edited in a few familiar references.
 							</p>
 							
 							<!--<div class="works-pics">-->
@@ -73,7 +73,7 @@
 							<br/>
 							
 							<p>
-							Another Rosetta image that was taken in January 2015. I used Google Maps and a scale of 15 centimeter = 1 pixel. I used the Statue of Liberty and a full-sized airplane for references. The scale was grabbed from the space agency's photo description <a href="http://www.esa.int/spaceinimages/Images/2015/01/Comet_from_8_km">here</a>.
+							Below is another image taken by Rosetta in January 2015. I again used Google Maps and a scale of 15 centimeter = 1 pixel for editing. I used the Statue of Liberty and a full-sized airplane for references. The scale was grabbed from the space agency's photo description <a href="http://www.esa.int/spaceinimages/Images/2015/01/Comet_from_8_km">here</a>.
 							</p>
 							
 							<ul>

@@ -43,7 +43,7 @@
 							<h1>Escape (Oculus Rift VR)</h1>
 							
 							<p>
-							A short game inspired by old point-and-click "Escape the Room" Flash games. I used this opportunity to learn more about virtual reality development using the Unity3D game engine.
+							A personal side project inspired by old point-and-click "Escape the Room" Flash games. I used this opportunity to learn more about C# programming and virtual reality development using the Unity3D game engine.
 							</p>
 							
 							<img src="img/escape.jpg" alt="Escape VR" class="center-block img-responsive"/>
@@ -53,15 +53,23 @@
 							</p>
 							
 							<p>
-							I developed a "world cursor" to allow the player to interact with the environment with just the mouse. The cursor's movement is independent from the movement of the player's head. 
+							I developed a "world cursor" that allows the player to interact with the environment with just the mouse. The cursor's movement is independent from the movement of the player's head. 
 							</p>
 							
 							<p>
-							If you have the Oculus Rift DK2, you can download the Escape demo below to try it for yourself!
+							If you have an Oculus Rift DK2, you can download the Escape demo below to try it for yourself!
+							</p>
+							<br/>
+							
+							<p>
+							<strong>CONTROLS:</strong><br/>
+							Mouse - Move cursor<br/>
+							Left click - Interact<br/>
+							Space or R - Reset camera
 							</p>
 							
 							<br>
-								<a href="https://www.dropbox.com/s/mp75ffrianyj2rk/Escape_%20v1.1.zip?dl=0"><h4><strong>Escape_v1.1 (Oculus Rift DK2 recommended)</strong></h4></a>
+								<a href="https://www.dropbox.com/sh/3vdmi0a97kcgh6i/AABxzNWAiq6zHPS0h3ld2r8ba?dl=0"><h4><strong>Escape_v1.3 (Oculus Rift DK2 recommended)</strong></h4></a>
 							<br>
 							
 							<img src="img/unity.jpg" alt="Unity3D editing" class="center-block img-responsive"/>

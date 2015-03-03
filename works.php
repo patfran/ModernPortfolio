@@ -43,24 +43,10 @@
 
 							<h1>Works</h1>
 							
-							<div class="workbar"> <!-- 2.2015 -->
-								<a href="works/escape.php">
-								<img src="thumbnails/480/escape-480.jpg" alt="Escape VR" class="center-block img-responsive"/>
-								<h4 class="workbar-caption">Escape (Oculus Rift VR)</h4> 
-								</a>
-							</div>
-							
-							<div class="workbar"> <!-- 12.2014 -->
-								<a href="works/dating.php">
-								<img src="thumbnails/480/dating-480.jpg" alt="Dating App" class="center-block img-responsive"/>
-								<h4 class="workbar-caption">Dating App UX Report</h4>  
-								</a>
-							</div>
-							
 							<div class="workbar"> <!-- 3.2013 -->
 								<a href="works/phonepromo.php">
 								<img src="thumbnails/480/phone-480.jpg" alt="Windows Phone" class="center-block img-responsive"/>
-								<h4 class="workbar-caption"><span class="fa fa-trophy"></span> Windows Phone Promo</h4> 
+								<h4 class="workbar-caption"></span> Windows Phone Promo</h4> 
 								</a>
 							</div>
 							
@@ -76,14 +62,28 @@
 							<div class="workbar"> <!-- 3.2014 -->
 								<a href="works/xboxflyer.php">
 								<img src="thumbnails/480/xboxflyer-480.jpg" alt="Xbox Music" class="center-block img-responsive"/>
-								<h4 class="workbar-caption"><span class="fa fa-trophy"></span> Xbox Music Promo</h4> 
+								<h4 class="workbar-caption"></span> Xbox Music Promo</h4> 
 								</a>
 							</div>
 							
-							<div class="workbar"> <!-- 7.2012 -->
-								<a href="works/1fort.php">
-								<img src="thumbnails/480/1fort-480.jpg" alt="1fort" class="center-block img-responsive"/>
-								<h4 class="workbar-caption">1fort (Source Filmmaker)</h4> 
+							<div class="workbar"> <!-- 2.2015 -->
+								<a href="works/escape.php">
+								<img src="thumbnails/480/escape-480.jpg" alt="Escape VR" class="center-block img-responsive"/>
+								<h4 class="workbar-caption">Escape (Oculus Rift VR)</h4> 
+								</a>
+							</div>
+							
+							<div class="workbar"> <!-- 12.2014 -->
+								<a href="works/dating.php">
+								<img src="thumbnails/480/dating-480.jpg" alt="Dating App" class="center-block img-responsive"/>
+								<h4 class="workbar-caption">Dating App UX Report</h4>  
+								</a>
+							</div>
+							
+							<div class="workbar"> <!-- 4.2014 -->
+								<a href="works/drawing.php">
+								<img src="thumbnails/480/girl-480.jpg" alt="Girl in Blue" class="center-block img-responsive"/>
+								<h4 class="workbar-caption">Girl in Blue</h4> 
 								</a>
 							</div>
 							
@@ -94,6 +94,13 @@
 								</a>
 							</div>
 							
+							<div class="workbar"> <!-- 7.2012 -->
+								<a href="works/1fort.php">
+								<img src="thumbnails/480/1fort-480.jpg" alt="1fort" class="center-block img-responsive"/>
+								<h4 class="workbar-caption">1fort (Source Filmmaker)</h4> 
+								</a>
+							</div>
+							
 							<div class="workbar"> <!-- 10.2014 -->
 								<a href="works/rosetta.php">
 								<img src="thumbnails/480/rosetta-480.jpg" alt="Rosetta Scale" class="center-block img-responsive"/>
@@ -101,12 +108,7 @@
 								</a>
 							</div>
 							
-							<div class="workbar"> <!-- 4.2014 -->
-								<a href="works/drawing.php">
-								<img src="thumbnails/480/girl-480.jpg" alt="Girl in Blue" class="center-block img-responsive"/>
-								<h4 class="workbar-caption">Girl in Blue</h4> 
-								</a>
-							</div>
+							
 						
 						</section>
 						

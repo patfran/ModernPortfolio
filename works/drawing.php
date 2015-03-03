@@ -43,7 +43,7 @@
 						<h1 class="text-center">Girl in Blue</h1>
 						
 						<p>
-						This digital drawing took approximately 9 hours to complete. The process included initial sketches, lots of internet references, coloring, and cleaning up unwanted markings. Below are my final drawing and some of the intermediate drawings during the process.
+						This digital drawing took approximately 9 hours to complete. The process included initial sketches, lots of internet references, coloring, and cleaning up unwanted markings. Below are my final drawing and the original drawings from the process.
 						</p>
 						
 						<p>
