@@ -41,7 +41,7 @@
 						
 					
 						<section id="works-content" class="myfadeinquick">
-						<h1>Dating App UX Report</h1>
+						<h1>Dating App UX</h1>
 						
 						
 						<p>
@@ -59,10 +59,10 @@
 						</p>
 						
 						<p>
-						I was responsible for Jason Vasquez's persona and scenarios. I was also in charge of developing the "art stuff", such as Jason's storyboard and Jason's key path scenario with Axure, a prototyping software.</p>
+						I was responsible for Jason Vasquez's persona and scenarios. I was also in charge of the "art stuff", including Jason's storyboard and Jason's key path scenario with Axure, a prototyping software.</p>
 						
 						<p>
-						Our complete UX report can be found below. Our Axure prototype can be found <a href="http://1by4bg.axshare.com/#p=internet_1&hi=1">here</a>.
+						Our complete UX report with the personas and scenarios can be found below. Our Axure prototype can be found <a href="http://1by4bg.axshare.com/#p=internet_1&hi=1">here</a>.
 						</p>
 						
 						<!--<div class="embed-responsive embed-responsive-4by3">-->

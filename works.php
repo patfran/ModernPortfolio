@@ -66,24 +66,31 @@
 								</a>
 							</div>
 							
+							<div class="workbar"> <!-- 12.2014 -->
+								<a href="works/dating.php">
+								<img src="thumbnails/480/dating-480.jpg" alt="Dating App" class="center-block img-responsive"/>
+								<h4 class="workbar-caption">Dating App UX</h4>  
+								</a>
+							</div>
+							
+							<div class="workbar"> <!-- 12.2014 -->
+								<a href="works/morning.php">
+								<img src="thumbnails/480/morning-480.jpg" alt="Morning Moment" class="center-block img-responsive"/>
+								<h4 class="workbar-caption">Morning Moment App</h4>  
+								</a>
+							</div>
+							
 							<div class="workbar"> <!-- 2.2015 -->
 								<a href="works/escape.php">
 								<img src="thumbnails/480/escape-480.jpg" alt="Escape VR" class="center-block img-responsive"/>
 								<h4 class="workbar-caption">Escape (Oculus Rift VR)</h4> 
 								</a>
 							</div>
-							
-							<div class="workbar"> <!-- 12.2014 -->
-								<a href="works/dating.php">
-								<img src="thumbnails/480/dating-480.jpg" alt="Dating App" class="center-block img-responsive"/>
-								<h4 class="workbar-caption">Dating App UX Report</h4>  
-								</a>
-							</div>
-							
-							<div class="workbar"> <!-- 4.2014 -->
-								<a href="works/drawing.php">
-								<img src="thumbnails/480/girl-480.jpg" alt="Girl in Blue" class="center-block img-responsive"/>
-								<h4 class="workbar-caption">Girl in Blue</h4> 
+				
+							<div class="workbar"> <!-- 7.2012 -->
+								<a href="works/1fort.php">
+								<img src="thumbnails/480/1fort-480.jpg" alt="1fort" class="center-block img-responsive"/>
+								<h4 class="workbar-caption">1fort (Source Filmmaker)</h4> 
 								</a>
 							</div>
 							
@@ -94,17 +101,17 @@
 								</a>
 							</div>
 							
-							<div class="workbar"> <!-- 7.2012 -->
-								<a href="works/1fort.php">
-								<img src="thumbnails/480/1fort-480.jpg" alt="1fort" class="center-block img-responsive"/>
-								<h4 class="workbar-caption">1fort (Source Filmmaker)</h4> 
-								</a>
-							</div>
-							
 							<div class="workbar"> <!-- 10.2014 -->
 								<a href="works/rosetta.php">
 								<img src="thumbnails/480/rosetta-480.jpg" alt="Rosetta Scale" class="center-block img-responsive"/>
 								<h4 class="workbar-caption">Rosetta Image Scale</h4> 
+								</a>
+							</div>
+							
+							<div class="workbar"> <!-- 4.2014 -->
+								<a href="works/drawing.php">
+								<img src="thumbnails/480/girl-480.jpg" alt="Girl in Blue" class="center-block img-responsive"/>
+								<h4 class="workbar-caption">Girl in Blue</h4> 
 								</a>
 							</div>
 							

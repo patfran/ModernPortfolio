@@ -43,7 +43,7 @@
 						<h1>Windows Phone Promotional Video</h1>
 						
 						<p> 
-						My submission for the Windows Phone Promotional Video Contest during my Windows UCrew internship. UCrew members from across the country were tasked with creating a promotional video that would show the strengths of the Windows Phone.
+						My submission for the Windows Phone Promotional Video Contest during my Windows UCrew internship with Fluent Group. UCrew members from across the country were tasked with creating a promotional video that would show the strengths of the Windows Phone.
 						</p>
 						
 						<p>
@@ -63,7 +63,7 @@
 						
 						<h4><strong>AWARD</strong></h4>
 						<p>
-						Best Windows Phone Promotional Video - Windows UCrew
+						Best Windows Phone Promotional Video - Fluent Group
 						</p>
 						<br/>
 						</section>

@@ -43,7 +43,7 @@
 						<h1>Xbox Music Promotional Flyer</h1>
 						
 						<p>
-						My submission for the Xbox Music Flyer Contest during my Windows UCrew internship. UCrew members from across the country were tasked with creating an effective promotional flyer that would be helpful on our campuses.
+						My submission for the Xbox Music Flyer Contest during my Windows UCrew internship with Fluent Group. UCrew members from across the country were tasked with creating an effective promotional flyer that would be helpful on our campuses.
 						</p>
 						
 						<img src="img/xboxflyer.jpg" alt="Xbox Music Flyer" class="center-block img-responsive"/>
@@ -62,7 +62,7 @@
 						
 						<h4><strong>AWARD</strong></h4>
 						<p>
-						Top 5 Best Xbox Music Promotional Flyers - Windows UCrew
+						Top 5 Best Xbox Music Promotional Flyers - Fluent Group
 						</p>
 						<br/>
 						</section>

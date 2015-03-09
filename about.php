@@ -46,9 +46,9 @@
 							<img class="center-block img-responsive" src="thumbnails/selfportrait.jpg" alt="A photo of me" /><!-- class="about-img" -->
 							<br/>
 							<p>  <!--  class="about-text" -->
-							Hi! My name is Patrick Francisco, and I'm a digital artist living in the Greater New York City area. I graduated from New Jersey Institute of Technology in December 2014 with a degree in Information Technology. Adobe Photoshop and Adobe Premiere have been my main tools of the trade since high school, but I am constantly searching for cool digital outlets to express my creativity. As a matter of fact, I taught myself HTML and CSS over the past few months to develop this portfolio! Right now, I am currently learning more about virtual reality development using Unity3D and the Oculus Rift DK2, and my ultimate goal is to expand all of my skills from within the virtual reality industry.
+							Hi! My name is Patrick Francisco, and I'm a digital artist living in the Greater New York City area. I graduated from New Jersey Institute of Technology in December 2014 with a degree in Information Technology. Adobe Photoshop and Adobe Premiere have been my main tools of the trade since high school, but I am constantly searching for cool digital outlets to express my creativity. As a matter of fact, I taught myself HTML and CSS over the past few months to develop this portfolio! I recently fell in love with user experience design, and my goal is to learn more about UX design within a professional environment.
 							</p>
-							<a href="contact.php">Contact</a>
+							<a href="contact.php">Contact me!</a>
 							
 							
 						</section>
