@@ -43,6 +43,20 @@
 
 							<h1>Works</h1>
 							
+							<div class="workbar"> <!-- 2.2015 -->
+								<a href="works/japan.php">
+								<img src="thumbnails/480/japan-480.jpg" alt="Summer Day in Japan VR" class="center-block img-responsive"/>
+								<h4 class="workbar-caption">Summer Day in Japan VR (WIP)</h4> 
+								</a>
+							</div>
+							
+							<div class="workbar"> <!-- 2.2015 -->
+								<a href="works/escape.php">
+								<img src="thumbnails/480/escape-480.jpg" alt="Escape the Room VR" class="center-block img-responsive"/>
+								<h4 class="workbar-caption">Escape the Room VR</h4> 
+								</a>
+							</div>
+							
 							<div class="workbar"> <!-- 3.2013 -->
 								<a href="works/phonepromo.php">
 								<img src="thumbnails/480/phone-480.jpg" alt="Windows Phone" class="center-block img-responsive"/>
@@ -80,12 +94,7 @@
 								</a>
 							</div>
 							
-							<div class="workbar"> <!-- 2.2015 -->
-								<a href="works/escape.php">
-								<img src="thumbnails/480/escape-480.jpg" alt="Escape VR" class="center-block img-responsive"/>
-								<h4 class="workbar-caption">Escape (Oculus Rift VR)</h4> 
-								</a>
-							</div>
+							
 				
 							<div class="workbar"> <!-- 7.2012 -->
 								<a href="works/1fort.php">
